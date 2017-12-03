@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GameSpy</string>
+    <string name="welcome">Welcome to gamespy</string>
+    <string name="goToLogo">Go to logo detection</string>
+    <string name="setPicture">Set Picture</string>
+    <string name="homeText">Welcome to GameSpy home menu</string>
+    <string name="intoMain">Please tap the button below to go to the detection screen.</string>
+    <string name="pictureInfo">Please press the button below and take a picture of the logo you want to look up! Please ensure your logo is taken at the center of your camera screen.</string>
+    <string name="returnLogo">Return to Logo Detection</string>
+
+</resources>
