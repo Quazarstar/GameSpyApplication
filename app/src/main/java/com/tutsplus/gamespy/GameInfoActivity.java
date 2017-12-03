@@ -34,6 +34,9 @@ public class GameInfoActivity extends AppCompatActivity {
                 break;
             case "SUPER MARIO\n":  textToShow = "Super mario is a long string of games of the Mario series made by nintendo, spanning across several consoles and widely reveared as one of the great kings of videogames.";
                 break;
+            case "CLASH OF\nCLANS\n": textToShow = "Clash of Clans is a freemium mobile strategy video game developed and published by Finnish game developer Supercell. The game was released for iOS platforms on August 2, 2012, and on Google Play for Android on October 7, 2013.\n" +
+                    "The game is set in a fantasy themed persistent world where the player is a chief of a village. Clash of Clans tasks players to build their own town using the resources gained from attacking other players through the game's fighting features. The main resources are gold, elixir and dark elixir. Players can conjoin to create clans, groups of up to fifty people who can then partake in Clan Wars together, donate and receive troops, and talk with each other.";
+                break;
             default: textToShow = "Invalid title";
                 break;
         }
