@@ -8,6 +8,7 @@
     android:paddingLeft="16dp"
     android:paddingRight="16dp"
     android:paddingBottom="16dp"
+    android:background="@color/backgroundColor"
     tools:context="com.tutsplus.gamespy.GameInfoActivity">
 
     <RelativeLayout
@@ -19,6 +20,7 @@
          android:layout_width="wrap_content"
          android:layout_height="wrap_content"
          android:layout_alignParentTop="true"
+         android:textColor="@color/blackBack"
          android:layout_centerHorizontal="true"
          android:layout_marginTop="18dp"/>
 

@@ -8,6 +8,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@color/backgroundColor"
     tools:context="com.tutsplus.gamespy.MainActivity">
 
     <RelativeLayout
@@ -19,6 +20,7 @@
             android:layout_height="wrap_content"
             android:text="@string/homeText"
             android:textSize="30sp"
+            android:textColor="@color/blackBack"
             android:textAlignment="center"
             android:id="@+id/homeTitle"
             android:layout_centerHorizontal="true"/>
@@ -26,6 +28,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:textColor="@color/blackBack"
             android:text="@string/intoMain"
             android:layout_centerHorizontal="true"
             android:layout_below="@id/homeTitle"/>
@@ -36,7 +39,7 @@
             android:layout_centerInParent="true"
             android:text="@string/goToLogo"
             android:id="@+id/goToLogo"
-            android:textSize="30sp"
+            android:textSize="50sp"
             android:onClick="goToLogoDetection"/>
 
     </RelativeLayout>

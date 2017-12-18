@@ -7,6 +7,7 @@
     android:paddingLeft="16dp"
     android:paddingRight="16dp"
     android:paddingTop="16dp"
+    android:background="@color/backgroundColor"
     tools:context="com.tutsplus.gamespy.SplashActivity">
 
     <ImageView
@@ -22,7 +23,7 @@
         android:textAllCaps="true"
         android:textColorHighlight="@color/colorPrimaryDark"
         android:textStyle="bold"
-        android:textColor="@color/colorPrimary"
+        android:textColor="@color/blackBack"
         android:gravity="top|center"
 
         />

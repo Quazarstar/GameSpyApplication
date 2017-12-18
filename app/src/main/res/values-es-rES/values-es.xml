@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GameSpy</string>
+    <string name="welcome">Bienvenido a gamespy</string>
+    <string name="goToLogo">Ir a la detección de logo</string>
+    <string name="setPicture">Establecer imagen</string>
+    <string name="homeText">Bienvenido al menú de inicio de GameSpy</string>
+    <string name="intoMain">Toque el botón de abajo para ir a la pantalla de detección.</string>
+    <string name="pictureInfo">¡Presione el botón de abajo y tome una fotografía del logotipo que desea buscar! Asegúrese de que su logotipo esté en el centro de la pantalla de su cámara.</string>
+    <string name="returnLogo">Volver a la detección de logotipos</string>
+    <string name="fortnite">Fortnite es un juego desarrollado por Epic games, que es un juego de estilo real de batalla actualmente gratuito y un juego PvE que se puede comprar.\n\n Consejos:\n1: los rifles de asalto Burst son muy potentes a mediano y corto alcance, capaces de dañar a Ko un jugador con un solo estallido.\n2: Puedes hacer que un amigo monte un cohete que disparas desde un lanzacohetes si cronometras el salto justo!</string>
+    <string name="darkSoul">Dark souls es un RPG de acción hecho por el software From y es ampliamente reconocido como uno de los juegos más difíciles del mercado.\n\n Sugerencias:\n1: puedes jugar Co-Op con amigos utilizando humanidad y ser humano de la hoguera, y luego acceder a la señal de invocación de un amigo desde donde lo colocan.\n2: Monstruos con antorchas se ven como enemigos débiles, pero siempre golpearán muy duro, así que ten cuidado.</string>
+    <string name="skyRim">Skyrim es el quinto juego de rollos antiguos desarrollado por los estudios Bethesda. Un juego que ha hecho su reclamo a la fama a través del desarrollo de rollos Elder y juegos Skyrim.\n\nConsejos:\n1: ahorre temprano y a menudo.\n2: Interrumpa a los enemigos con Fuerza implacable.</string>
+    <string name="superMario">Súper mario es una larga serie de juegos de la serie Mario hecha por Nintendo, que se extiende a través de varias consolas y ampliamente venerado como uno de los grandes reyes de los videojuegos.\n\nConsejos:\n1: La flor de fuego generalmente se usa mejor al saltar.\n2: Llega al mundo 3/1 y conviértete en Super Mario. Al final del nivel, por la escalera antes de la bandera del final, verá dos tortugas bajando por las escaleras. Saltar sobre el primero y luego saltar sobre el segundo debería hacer que golpee la estrella y rebote. Desde aquí, salta sobre él y mantente fuera del suelo durante 1ups ilimitados.</string>
+    <string name="clashOfClan">Clash of Clans es un videojuego de estrategia móvil freemium desarrollado y publicado por el desarrollador de juegos finlandés Supercell.\n\n Sugerencias: \n1: guarde las gemas de Choque de clanes para actualizarlas más tarde. \n2: Gemas de Choque de clanes gratuitas. Cuando juegas puedes ganar gemas gratis de Choque de clanes completando una variedad de logros de Choque de clanes o superando obstáculos. </string>
+</resources>
